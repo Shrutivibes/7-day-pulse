@@ -2,13 +2,13 @@
 .bg{
     height: 100% !important;
     max-width:600px  !important;
-    background-color: #365CC1;
+    background-color: #FFCB49;
     
 }
 h1,h4{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: normal;
-    font-weight: 80;
+    font-weight: 50;
 }
 .one{
 position: absolute;
@@ -27,7 +27,7 @@ z-index: -1;
 }
 .four{
     position: absolute;
-    top: 69%;
+    top: 65%;
     left: 50%; 
 }
 .five{
@@ -37,11 +37,11 @@ z-index: -1;
 }
 .six{
     position: absolute;
-    top: 100%;
-    left: 53%;
+    top: 108%;
+    left: 55%;
 }
 .sev{
     position: absolute;
-    top:120%;
-    left: 27%;
+    top:145%;
+    left: 30%;
 }
